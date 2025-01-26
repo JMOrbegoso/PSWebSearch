@@ -34,8 +34,8 @@ Open your PowerShell console and try:
 
 **JMOrbegoso**
 
-- Website: [jmorbegoso.com](https://www.jmorbegoso.com)
-- Twitter: [@JMOrbegosoDev](https://twitter.com/JMOrbegosoDev/)
+- Website: [www.jmorbegoso.dev](https://www.jmorbegoso.dev)
+- Blog: [blog.jmorbegoso.dev](https://blog.jmorbegoso.dev)
 - Github: [@JMOrbegoso](https://github.com/JMOrbegoso/)
 - LinkedIn: [@jmorbegosodev](https://www.linkedin.com/in/jmorbegosodev/)
 
@@ -49,5 +49,5 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [JMOrbegoso](https://github.com/JMOrbegoso).<br />
+Copyright © 2025 [JMOrbegoso](https://github.com/JMOrbegoso).<br />
 This project is [MIT](https://github.com/JMOrbegoso/PSWebSearch/blob/main/LICENSE) licensed.
